@@ -8,10 +8,19 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deilsonmartins/Aircnc">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deilsonmartins/Aircnc">
 
+  <a href="https://github.com/deilsonmartins/Aircnc/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deilsonmartins/Aircnc">
+  </a>
+
+  <a href="https://github.com/deilsonmartins/Aircnc/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/deilsonmartins/Aircnc">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
@@ -27,18 +36,18 @@
   <img src="./dashboard.png"/>
 </p>
 
-## :rocket: Sobre a Aplicação
+## 💻 Sobre a Aplicação
 
 Plataforma web onde as empresas podem cadastrar spots para receber outros desenvolvedores nos quais podem ser incríveis talentos e se unirem a empresa.
 
-## :rocket: Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 - **NodeJS** — Um interpretador de javascript assíncrono
 - **Express** - Estrutura para desenvolvimento de Backend em Nodejs
 - **MongoDB** - Banco de dados não relacional
 - **React** — Uma biblioteca para construir interfaces
 - **Axios** — Requisições de API
 
-## :rocket: Instalação e Execução
+## 🔥 Instalação e Execução
 
 Faça um clone desse repositório.
 
@@ -57,7 +66,7 @@ Faça um clone desse repositório.
 3. Rode `yarn start` para iniciar o client.
 
 
-## :rocket: Como Contribuir
+## 🤔 Como Contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
