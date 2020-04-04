@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./frontend/src/assets/logo.svg" alt="be the hero"/>
+  <img src="./logo.svg" alt="aircnc"/>
 </p>
 
 
