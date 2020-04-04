@@ -21,6 +21,11 @@
    <a href="#rocket-como-contribuir">Como Contribuir</a>
 </p>
 
+<p align="center">
+  <img src="./signIn.png"/>
+  <img src="./spots.png"/>
+  <img src="./dashboard.png"/>
+</p>
 
 ## :rocket: Sobre a Aplicação
 
